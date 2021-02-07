@@ -199,7 +199,7 @@ position: -webkit-sticky;
                 display: grid;
                 height: 160vh;
                 grid-template-columns:1fr ;
-                grid-template-rows:0.1fr 0.5r 0.5r 0.5r ;
+                grid-template-rows:0.1fr 0.5fr 0.5fr 0.5fr ;
                 grid-template-areas: 
                 "h1"
                 "box00" "box01" "box02" ;
